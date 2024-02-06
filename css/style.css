@@ -31,8 +31,8 @@ img {
     border: 10px dashed #ffffff;
 }
 
-div {
-    min-height: 130px;
+body div {
+    min-height: 125px;
     padding: 20px;
     border: 3px solid #ffffff;
 }
@@ -55,11 +55,8 @@ div {
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
+    color: #C4C4C4
 
-}
-
-.blue h2 {
-    color: #C4C4C4;
 }
 
 .yellow {
